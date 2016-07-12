@@ -10,3 +10,6 @@ summary fastcampus datascience school documents
 - K-Means
 
 ### PCA
+
+### TimeSeries
+- ARMA Model
