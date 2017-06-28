@@ -1,5 +1,4 @@
 # datascience
-summary fastcampus datascience school documents
 
 ### classification
 - naive_baysian
