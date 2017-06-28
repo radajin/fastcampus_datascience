@@ -5,6 +5,7 @@ summary fastcampus datascience school documents
 - naive_baysian
 - decision_tree
 - qda_lda
+- svm
 
 ### clustering
 - K-Means
