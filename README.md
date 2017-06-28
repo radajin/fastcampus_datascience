@@ -13,6 +13,3 @@
 
 ### TimeSeries
 - ARMA Model
-
-TEST 1
-TEST 2
